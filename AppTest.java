@@ -5,6 +5,6 @@ public class AppTest {
             System.out.println("TEST FAILED: expected 5 but got " + result);
             System.exit(1);
         }
-        System.out.println("TEST PASSED!");
+        System.out.println("TEST PASSED");
     }
 }
