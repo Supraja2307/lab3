@@ -4,6 +4,6 @@ public class app {
     }
 
     public static void main(String[] args) {
-        System.out.println("6 + 23 = " + add(6, 23));
+        System.out.println("6 + 2 = " + add(6, 2));
     }
 }
